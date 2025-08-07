@@ -62,11 +62,11 @@ React-Currency-Converter/
 │   └── favicon.ico
 ├── src/
 │   ├── Components/
-│   │   ├── Converter.js
-│   │   └── CurrencySelector.js
+│   │   ├── ConverterForm.jsx
+│   │   └── CurrencySelect.jsx
 │   ├── App.js
-│   ├── index.js
-│   └── styles.css
+│   ├── index.css
+│   └── main.jsx
 ├── package.json
 ├── package-lock.json
 ├── README.md
